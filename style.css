@@ -1,0 +1,38 @@
+p{
+    text-align: center;
+}
+img {
+  border: 5px solid rgb(165, 138, 138);
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(0, 16%, 7%);
+    border: solid;
+}
+a{
+    font-size: 20px;
+}
+.header{
+    font-family: serif;
+    background-color: bisque;
+    
+}
+.camel{
+    background-color: cadetblue;
+}
+.chameleon{
+    background-color: #a0745f;
+}
+.pigeon{
+    background-color: cadetblue;
+}
+.teddy-bear{
+    background-color: cadetblue;
+}
+.cicada{
+    background-color: #a0745f;
+}
+.panda{
+    background-color: #a0745f;
+}
+
